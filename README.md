@@ -133,10 +133,3 @@ All paths pass through `get_path()`, which resolves them and rejects anything ou
 - Build multi-step prompts for debugging or data analysis
 - Add tests for path handling and tool error cases
 
-## Acknowledgments
-
-Based on the IBM Skills Network lab *Build an Enhanced MCP Server* by Abdul Fatir, Joshua Zhou, and Joseph Santarcangelo.
-
-## License
-
-Add a license of your choice (for example, MIT).
